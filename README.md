@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Mandeep Singh 👋
 
-<!--
-**MandeepSingh-14/MandeepSingh-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software engineer with a focus on backend development and machine learning. I love working on challenging problems and contributing to innovative projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-  🔭 I am experienced in MERN stack development and Data science.
+- 🔍  Looking for: Exciting software engineering opportunities
+
+
+## How to Reach Me
+
+- 📧 [Email me](mailto:mandeep14042002@gmail.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mandeep-singh-b366921b6/)
+
+Feel free to reach out if you want to collaborate or just chat about technology!
+
+---
+
+*Last updated: August 2024*
