@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software engineer with a focus on backend de
 ## About Me
 
 
--  🔭 I am experienced in MERN stack development and Data science.
+-  🔭 I am working on projects related to MERN stack development and Data science.
 - 🔍  Looking for: Exciting software engineering opportunities
 - ✉️ Email: your-email@example.com
 
